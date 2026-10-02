@@ -201,7 +201,7 @@ Student Profile
 │ Personalized College│
 │ Recommendations      │
 └──────────────────────┘
-
+```
 ## 🏏 IPL Analysis Dashboard — 2008–2025
 
 > An interactive **Power BI + Python analytics project** analyzing IPL match and ball-by-ball data across seasons, teams, players, batting, bowling, toss decisions, and match outcomes.

@@ -141,36 +141,13 @@ I approach projects with a **product-engineering mindset 🚀**: understand the 
 </div>
 
 
-
-# 🧊 3D Contribution Activity
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/Adiitya09/Adiitya09/main/profile-3d-contrib/profile-night-rainbow.svg"
-width="95%"
-alt="Aditya Patil 3D GitHub Contributions"
-/>
-
-</div>
-
-<br>
-
-# 📈 GitHub Activity Timeline
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Adiitya09&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Aditya%20Patil%20%E2%80%94%20GitHub%20Activity"
-width="95%"
-alt="Aditya Patil GitHub Activity"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-gitblock.svg"
+    width="100%"
+    alt="3D GitHub contribution graph"
+  />
+</p>
 
 <sub>
 🧊 3D contribution visualization&nbsp;&nbsp;•&nbsp;&nbsp;

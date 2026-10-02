@@ -140,3 +140,6 @@ I approach projects with a **product-engineering mindset 🚀**: understand the 
 
 </div>
 
+| **Isometric 3D Calendar** |
+| ------------------------- |
+| 🧊 3D blocks/buildings<br>📅 Real GitHub contribution activity<br>🌌 Dark / Neon / Purple themes<br>⚡ Automatically generated via GitHub Actions |

@@ -139,3 +139,70 @@ I approach projects with a **product-engineering mindset 🚀**: understand the 
 <img width="70%" src="https://streak-stats.demolab.com/?user=Adiitya09&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&currStreakNum=FFFFFF&sideLabels=C4B5FD&sideNums=FFFFFF&dates=94A3B8" />
 
 </div>
+
+# 🏙️ 3D Contribution Activity
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/Adiitya09/Adiitya09/main/profile-3d-contrib/profile-night-rainbow.svg"
+width="95%"
+alt="Aditya Patil 3D GitHub Contribution Activity"
+/>
+
+<br><br>
+
+<sub>
+⚡ Automatically generated from GitHub contribution activity
+</sub>
+
+</div>
+
+---
+
+## ⚙️ 3D Contribution Graph — GitHub Actions
+
+Create the following file:
+
+`.github/workflows/profile-3d.yml`
+
+```yaml
+name: GitHub Profile 3D Contributions
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Generate 3D Contribution Graph
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Profile Repository
+        uses: actions/checkout@v5
+
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Adiitya09
+
+      - name: Commit Generated Graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A .
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update 3D contribution graph"
+            git push
+          fi
+``` 

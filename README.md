@@ -1,3 +1,34 @@
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:312E81,45:5B21B6,75:7C3AED,100:4338CA&height=210&section=header&text=ADITYA%20PATIL&fontSize=44&fontColor=FFFFFF&fontAlignY=34&desc=DATA%20%7C%20AI%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=57&descSize=16&animation=twinkling)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&height=55&lines=Computer+Science+%26+Business+Systems+Student;Data+Analytics+%7C+AI%2FML+%7C+Full-Stack+Development;Building+Data-Driven+Products+with+Engineering+Discipline;Turning+Raw+Data+into+Reliable+Systems+%26+Insights)](https://git.io/typing-svg)
+
+<br>
+
+[![B.Tech](https://img.shields.io/badge/B.Tech-CSBS-6D28D9?style=for-the-badge&logo=academia&logoColor=white)](https://www.kitcoek.in/)
+[![CGPA](https://img.shields.io/badge/CGPA-7.8-7C3AED?style=for-the-badge&logo=google-scholar&logoColor=white)](#)
+[![KIT's College of Engineering](https://img.shields.io/badge/KIT's%20College%20of%20Engineering-Kolhapur-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.kitcoek.in/)
+[![Location](https://img.shields.io/badge/Kolhapur-Maharashtra-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://aditya-portfolio-xi-six.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityapatil)
+[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2004aditypatil@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adiitya09)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Adiitya09&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Adiitya09?style=for-the-badge&color=7C3AED&label=FOLLOWERS&logo=github)
+![Stars](https://img.shields.io/github/stars/Adiitya09?style=for-the-badge&color=4C1D95&label=STARS&logo=github)
+
+</div>
+
+---
+
+
 # 💫 About Me
 
 I am a **Computer Science and Business Systems student at KIT's College of Engineering, Kolhapur** 🎓, focused on building practical solutions across **Data Analytics 📊, AI/ML 🤖, Software Engineering ⚙️, and Full-Stack Development 💻**.

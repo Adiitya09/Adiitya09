@@ -140,6 +140,42 @@ I approach projects with a **product-engineering mindset 🚀**: understand the 
 
 </div>
 
-| **Isometric 3D Calendar** |
-| ------------------------- |
-| 🧊 3D blocks/buildings<br>📅 Real GitHub contribution activity<br>🌌 Dark / Neon / Purple themes<br>⚡ Automatically generated via GitHub Actions |
+
+
+# 🧊 3D Contribution Activity
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/Adiitya09/Adiitya09/main/profile-3d-contrib/profile-night-rainbow.svg"
+width="95%"
+alt="Aditya Patil 3D GitHub Contributions"
+/>
+
+</div>
+
+<br>
+
+# 📈 GitHub Activity Timeline
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Adiitya09&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Aditya%20Patil%20%E2%80%94%20GitHub%20Activity"
+width="95%"
+alt="Aditya Patil GitHub Activity"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>
+🧊 3D contribution visualization&nbsp;&nbsp;•&nbsp;&nbsp;
+📈 Activity timeline&nbsp;&nbsp;•&nbsp;&nbsp;
+⚡ Powered by GitHub activity
+</sub>
+
+</div>

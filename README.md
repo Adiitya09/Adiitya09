@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:312E81,45:5B21B6,75:7C3AED,100:4338CA&height=210&section=header&text=ADITYA%20PATIL&fontSize=44&fontColor=FFFFFF&fontAlignY=34&desc=DATA%20%7C%20AI%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=57&descSize=16&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&height=55&lines=Computer+Science+%26+Business+Systems+Student;Data+Analytics+%7C+AI%2FML+%7C+Full-Stack+Development;Building+Data-Driven+Products+with+Engineering+Discipline;Turning+Raw+Data+into+Reliable+Systems+%26+Insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&height=55&lines=Computer+Science+%26+Business+Systems+Student;Data+Analytics+%7C+AI%2FML+%7C;Building+Data-Driven+Products+with+Engineering+Discipline;Turning+Raw+Data+into+Reliable+Systems+%26+Insights)](https://git.io/typing-svg)
 
 <br>
 
@@ -416,3 +416,17 @@ Student Profile
        │ Insights • KPIs   │
        │ Business Impact   │
        └───────────────────┘
+```
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=Adiitya09&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&bg_color=0D1117" />
+
+<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Adiitya09&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=A78BFA&text_color=C4B5FD&bg_color=0D1117" />
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=Adiitya09&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&currStreakNum=FFFFFF&sideLabels=C4B5FD&sideNums=FFFFFF&dates=94A3B8" />
+
+</div>

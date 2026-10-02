@@ -31,7 +31,7 @@
 
 # 💫 About Me
 
-I am a **Computer Science and Business Systems student at KIT's College of Engineering, Kolhapur** 🎓, focused on building practical solutions across **Data Analytics 📊, AI/ML 🤖, Software Engineering ⚙️, and Full-Stack Development 💻**.
+I am a **Computer Science and Business Systems student at KIT's College of Engineering, Kolhapur** 🎓, focused on building practical solutions across **Data Analytics 📊, AI/ML 🤖, Software Engineering ⚙️**.
 
 My work combines analytical thinking 🧠 with engineering fundamentals — from transforming raw datasets 🔄 and designing KPI-driven dashboards 📈 to building recommendation systems 🎯, REST APIs 🔌, database-backed applications 🗄️, and machine-learning workflows 🤖.
 
@@ -39,7 +39,7 @@ I enjoy working across the complete lifecycle of a product:
 
 **📊 Data → ⚙️ Processing → 🧠 Intelligence → 🔌 API → 💻 Application → 💡 Insight**
 
-My current technical focus includes **Python 🐍, SQL 🗃️, Pandas 🐼, NumPy 🔢, Power BI 📊, FastAPI ⚡, PostgreSQL 🐘, Next.js ▲, TypeScript 🔷, Scikit-learn 🤖, TensorFlow 🧠, Keras 🔥, PyTorch ⚡, Git 🌿, and GitHub 🐙**.
+My current technical focus includes **Python 🐍, SQL 🗃️, Pandas 🐼, NumPy 🔢, Power BI 📊, FastAPI ⚡, PostgreSQL 🐘, Scikit-learn 🤖, TensorFlow 🧠, Keras 🔥, PyTorch ⚡, Git 🌿, and GitHub 🐙**.
 
 I approach projects with a **product-engineering mindset 🚀**: understand the problem 🔍, structure the data 🗂️, design the system 🏗️, validate the implementation ✅, and communicate the result clearly 📌.
 
@@ -48,7 +48,6 @@ I approach projects with a **product-engineering mindset 🚀**: understand the 
 - 📊 Entry-level **Data Analyst** opportunities
 - 🤖 **AI/ML & Recommendation Systems** projects
 - ⚙️ **Data Engineering** internships and learning opportunities
-- 💻 Full-stack applications with data-driven functionality
 - 🌐 Collaborative analytics, ML, and open-source projects
 
 
@@ -83,8 +82,6 @@ I approach projects with a **product-engineering mindset 🚀**: understand the 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### ⚡ Backend & APIs
@@ -135,44 +132,75 @@ I approach projects with a **product-engineering mindset 🚀**: understand the 
 
 ## 🧭 CETCampus — Navigate Your Engineering Future
 
-> A data-driven **MHT-CET engineering college recommendation platform** designed to help students discover, compare, filter, and shortlist Maharashtra engineering colleges using historical cutoff data.
+> A data-driven **MHT-CET engineering college recommendation platform** where I worked as the **Recommendation System Developer**, responsible for designing and implementing the recommendation logic using historical cutoff data and student-specific preferences.
 
 <a href="https://github.com/Adiitya09/CETCampus">
 <img src="https://img.shields.io/badge/View_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+### 👨‍💻 My Role — Recommendation System Developer
+
+I was primarily responsible for the **recommendation system and data-processing layer** of CETCampus, focusing on transforming historical admission data into personalized college recommendations.
+
 ### 🛠️ Tech Stack
 
-`Next.js` `TypeScript` `Tailwind CSS` `FastAPI` `Python` `Pandas` `SQLAlchemy` `PostgreSQL` `Supabase`
+`Python` `Pandas` `FastAPI` `PostgreSQL` `SQLAlchemy` `Supabase` `Next.js` `TypeScript`
 
-### 🎯 Key Engineering Work
+### 🎯 Recommendation System Work
 
-- 🎯 Developed a data-driven recommendation engine using historical MHT-CET cutoff data.
-- 📊 Implemented **Safe, Moderate, and Reach** classification based on student percentile and historical cutoff margins.
-- 🏫 Integrated college, branch, category, district, region, and historical cutoff information.
-- 🔎 Built college discovery and filtering workflows.
-- ⚖️ Implemented multi-college comparison functionality.
-- 📌 Added candidate shortlisting and prediction-history workflows.
-- 🗄️ Structured PostgreSQL / Supabase database integration.
-- ⚡ Integrated recommendation logic with FastAPI.
-- 🔄 Built an ingestion workflow for future `.xlsx` cutoff-data updates.
-- 🧪 Maintained data validation and project documentation.
+- 🎯 Developed the **college recommendation system** using historical MHT-CET cutoff data.
+- 📊 Performed **data preprocessing, cleaning, transformation, and feature preparation** using Python and Pandas.
+- 🧠 Designed recommendation logic using **student percentile, historical cutoffs, branch preferences, categories, and cutoff margins**.
+- 🟢 Implemented **Safe** classification for colleges where historical cutoff trends indicate a comparatively higher admission margin.
+- 🟡 Implemented **Moderate** classification for colleges where the student's profile is closer to historical cutoff trends.
+- 🔴 Implemented **Reach** classification for colleges where historical cutoff margins are comparatively more competitive.
+- 🔎 Developed logic to generate **student-specific personalized college recommendations**.
+- 📈 Used historical cutoff patterns to support recommendation decisions rather than relying on a black-box ML prediction model.
+- 🔄 Structured the recommendation workflow so that processed data could be consumed by the FastAPI backend.
+- ⚡ Integrated the recommendation engine with the **FastAPI REST API**.
+- 🗄️ Worked with **PostgreSQL / Supabase** for storing and retrieving application data.
+- 🧪 Applied data validation and consistency checks to improve recommendation reliability.
 
-### 📈 Dataset Scale
+### 📈 Recommendation Workflow
 
-| Metric | Value |
-|---|---:|
-| Historical CAP Records | **28,377** |
-| Engineering Institutions | **326** |
-| Disciplines | **94** |
-| Seat Categories | **77** |
-
-### 🔗 Links
-
-**[Repository](https://github.com/Adiitya09/CETCampus)** · **[Portfolio](https://aditya-portfolio-xi-six.vercel.app/)**
-
-
----
+```text
+Student Profile
+      │
+      ▼
+┌──────────────────────┐
+│ Percentile / Rank    │
+│ Category             │
+│ Preferred Branch     │
+│ Location Preferences │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ Historical Cutoff   │
+│ Data Processing      │
+│ & Feature Preparation│
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ Cutoff Margin        │
+│ Analysis             │
+└──────────┬───────────┘
+           │
+           ▼
+┌─────────────────────────────┐
+│ Recommendation Classification│
+│                             │
+│ 🟢 Safe                     │
+│ 🟡 Moderate                 │
+│ 🔴 Reach                    │
+└──────────┬──────────────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ Personalized College│
+│ Recommendations      │
+└──────────────────────┘
 
 ## 🏏 IPL Analysis Dashboard — 2008–2025
 

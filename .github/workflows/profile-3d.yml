@@ -1,38 +1,33 @@
+name: GitHub-Profile-3D-Contrib
 
-# 🧊 3D Contribution Activity
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
 
-<div align="center">
+permissions:
+  contents: write
 
-<img
-src="https://raw.githubusercontent.com/Adiitya09/Adiitya09/main/profile-3d-contrib/profile-night-rainbow.svg"
-width="95%"
-alt="Aditya Patil 3D GitHub Contributions"
-/>
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
 
-</div>
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
 
-<br>
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: sudipkurundwade0101
 
-# 📈 GitHub Activity Timeline
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Adiitya09&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Aditya%20Patil%20%E2%80%94%20GitHub%20Activity"
-width="95%"
-alt="Aditya Patil GitHub Activity"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<sub>
-🧊 3D contribution visualization&nbsp;&nbsp;•&nbsp;&nbsp;
-📈 Activity timeline&nbsp;&nbsp;•&nbsp;&nbsp;
-⚡ Powered by GitHub activity
-</sub>
-
-</div>
+      - name: Commit and Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generated 3D contribution graph"; then
+            git push
+          fi

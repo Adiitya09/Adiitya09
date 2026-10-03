@@ -27,49 +27,50 @@
 </div>
 ## 💫 About Me
 
-I am a **Computer Science and Business Systems student at KIT's College of Engineering, Kolhapur** 🎓, focused on building practical solutions across **Data Analytics 📊, AI/ML 🤖, and Software Engineering ⚙️**.
+> **Computer Science & Business Systems Student · Data · AI/ML · Software Engineering**
 
-My work combines **analytical thinking 🧠 with engineering fundamentals** — transforming raw datasets 🔄, designing KPI-driven dashboards 📈, building recommendation systems 🎯, developing REST APIs 🔌, working with database-backed applications 🗄️, and creating machine-learning workflows 🤖.
+I'm **Aditya Patil**, a CSBS student at **KIT's College of Engineering, Kolhapur** 🎓, interested in building practical, data-driven software systems.
 
-### 🔄 How I Build
-
-<div align="center">
-
-**📊 Data**  
-↓  
-**⚙️ Processing**  
-↓  
-**🧠 Intelligence**  
-↓  
-**🔌 API**  
-↓  
-**💻 Application**  
-↓  
-**💡 Insight**
-
-</div>
-
-### 🧠 Current Technical Focus
-
-`Python` · `SQL` · `Pandas` · `NumPy` · `Power BI` · `FastAPI` · `PostgreSQL` · `Scikit-learn` · `TensorFlow` · `Keras` · `PyTorch` · `Git` · `GitHub`
-
-### 🚀 Open To
-
-| | Opportunities |
-|---|---|
-| 📊 | **Entry-level Data Analyst** roles |
-| 🤖 | **AI/ML & Recommendation Systems** projects |
-| ⚙️ | **Data Engineering** internships & learning opportunities |
-| 🌐 | Collaborative **Analytics, ML & Open-Source** projects |
-
-### 🎯 My Approach
-
-> **Understand → Structure → Build → Validate → Communicate**
-
-I approach projects with a **product-engineering mindset 🚀** — understanding the problem 🔍, structuring the data 🗂️, designing the system 🏗️, validating the implementation ✅, and communicating the result clearly 📌.
+I work at the intersection of **Data Analytics 📊, AI/ML 🤖, and Software Engineering ⚙️** — turning raw data into structured information, intelligent recommendations, useful APIs, and real-world applications.
 
 ---
 
+### 🧩 What I Build
+
+**📊 Analytics**  
+Transforming raw datasets into meaningful insights, KPIs, dashboards, and visual stories.
+
+**🎯 Recommendation Systems**  
+Designing data-driven recommendation logic using historical patterns, user preferences, and domain-specific rules.
+
+**🤖 Machine Learning**  
+Building practical ML workflows involving preprocessing, feature preparation, model development, and evaluation.
+
+**⚙️ Software Systems**  
+Connecting data and intelligence with APIs, databases, and application interfaces.
+
+---
+
+### 🔄 My Workflow
+
+```text
+     DATA
+       │
+       ▼
+  PROCESSING
+       │
+       ▼
+ INTELLIGENCE
+       │
+       ▼
+     API
+       │
+       ▼
+ APPLICATION
+       │
+       ▼
+    INSIGHT
+```
 ## 🌐 Socials
 
 <p align="left">

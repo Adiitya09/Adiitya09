@@ -122,6 +122,7 @@ I work at the intersection of **Data Analytics 📊, AI/ML 🤖, and Software En
 </td>
 </tr>
 </table>
+
 ## 📊 GitHub Stats
 
 <div align="center">

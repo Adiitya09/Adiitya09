@@ -35,21 +35,6 @@ I work at the intersection of **Data Analytics 📊, AI/ML 🤖, and Software En
 
 ---
 
-### 🧩 What I Build
-
-**📊 Analytics**  
-Transforming raw datasets into meaningful insights, KPIs, dashboards, and visual stories.
-
-**🎯 Recommendation Systems**  
-Designing data-driven recommendation logic using historical patterns, user preferences, and domain-specific rules.
-
-**🤖 Machine Learning**  
-Building practical ML workflows involving preprocessing, feature preparation, model development, and evaluation.
-
-**⚙️ Software Systems**  
-Connecting data and intelligence with APIs, databases, and application interfaces.
-
----
 
 ## 🌐 Socials
 
@@ -137,21 +122,40 @@ Connecting data and intelligence with APIs, databases, and application interface
 </td>
 </tr>
 </table>
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=Adiitya09&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&bg_color=0D1117" />
+<table>
+<tr>
+<td width="50%">
 
-<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Adiitya09&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=A78BFA&text_color=C4B5FD&bg_color=0D1117" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Adiitya09&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&cache_seconds=1800"
+  width="96%"
+/>
 
-<br><br>
+</td>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=Adiitya09&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&currStreakNum=FFFFFF&sideLabels=C4B5FD&sideNums=FFFFFF&dates=94A3B8" />
+<td width="50%">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiitya09&layout=compact&langs_count=7&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&cache_seconds=1800"
+  width="96%"
+/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img
+  src="https://streak-stats.demolab.com/?user=Adiitya09&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=8B86A8&currStreakNum=FFFFFF&sideNums=FFFFFF"
+  width="82%"
+/>
 
 </div>
-
 
 <p align="center">
   <img

@@ -26,42 +26,48 @@
 
 </div>
 
----
-💫 About Me
-────────────────────────────────────────
+## 💫 About Me
 
-Intro paragraph
+<table>
+<tr>
+<td width="65%" valign="top">
 
-What I actually build
-──────────────────────
+### 👋 Hi, I'm Aditya
 
-🔄 How I Build
-      📊 Data
-        ↓
-      ⚙️ Processing
-        ↓
-      🧠 Intelligence
-        ↓
-      🔌 API
-        ↓
-      💻 Application
-        ↓
-      💡 Insight
+I'm a **Computer Science and Business Systems student at KIT's College of Engineering, Kolhapur** 🎓, focused on building practical solutions across **Data Analytics 📊, AI/ML 🤖, and Software Engineering ⚙️**.
 
-🧠 Current Technical Focus
-[ Python ] [ SQL ] [ Pandas ] [ NumPy ] ...
+I enjoy turning **raw data into meaningful systems** — from data cleaning and KPI-driven dashboards to recommendation systems, REST APIs, database-backed applications, and machine-learning workflows.
 
-🚀 Open To
-📊 Data Analyst
-🤖 AI/ML
-⚙️ Data Engineering
-🌐 Open Source
+### 🧠 What I Work With
 
-🎯 My Approach
-Understand → Structure → Build → Validate → Communicate
+**📊 Data & Analytics**  
+Python · SQL · Pandas · NumPy · Power BI
 
-────────────────────────────────────────
+**🤖 AI & Machine Learning**  
+Scikit-learn · TensorFlow · Keras · PyTorch
 
+**⚙️ Engineering & Backend**  
+FastAPI · PostgreSQL · REST APIs · Git · GitHub
+
+</td>
+
+<td width="35%" valign="top">
+
+### 🎯 My Focus
+
+```text
+🔍 Understand
+      ↓
+🗂️ Structure
+      ↓
+⚙️ Build
+      ↓
+🧠 Add Intelligence
+      ↓
+✅ Validate
+      ↓
+📈 Deliver Insights
+```
 
 ## 🌐 Socials
 

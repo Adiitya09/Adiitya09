@@ -27,28 +27,41 @@
 </div>
 
 ---
+💫 About Me
+────────────────────────────────────────
 
+Intro paragraph
 
-# 💫 About Me
+What I actually build
+──────────────────────
 
-I am a **Computer Science and Business Systems student at KIT's College of Engineering, Kolhapur** 🎓, focused on building practical solutions across **Data Analytics 📊, AI/ML 🤖, Software Engineering ⚙️**.
+🔄 How I Build
+      📊 Data
+        ↓
+      ⚙️ Processing
+        ↓
+      🧠 Intelligence
+        ↓
+      🔌 API
+        ↓
+      💻 Application
+        ↓
+      💡 Insight
 
-My work combines analytical thinking 🧠 with engineering fundamentals — from transforming raw datasets 🔄 and designing KPI-driven dashboards 📈 to building recommendation systems 🎯, REST APIs 🔌, database-backed applications 🗄️, and machine-learning workflows 🤖.
+🧠 Current Technical Focus
+[ Python ] [ SQL ] [ Pandas ] [ NumPy ] ...
 
-I enjoy working across the complete lifecycle of a product:
+🚀 Open To
+📊 Data Analyst
+🤖 AI/ML
+⚙️ Data Engineering
+🌐 Open Source
 
-**📊 Data → ⚙️ Processing → 🧠 Intelligence → 🔌 API → 💻 Application → 💡 Insight**
+🎯 My Approach
+Understand → Structure → Build → Validate → Communicate
 
-My current technical focus includes **Python 🐍, SQL 🗃️, Pandas 🐼, NumPy 🔢, Power BI 📊, FastAPI ⚡, PostgreSQL 🐘, Scikit-learn 🤖, TensorFlow 🧠, Keras 🔥, PyTorch ⚡, Git 🌿, and GitHub 🐙**.
+────────────────────────────────────────
 
-I approach projects with a **product-engineering mindset 🚀**: understand the problem 🔍, structure the data 🗂️, design the system 🏗️, validate the implementation ✅, and communicate the result clearly 📌.
-
-### 🚀 Open To
-
-- 📊 Entry-level **Data Analyst** opportunities
-- 🤖 **AI/ML & Recommendation Systems** projects
-- ⚙️ **Data Engineering** internships and learning opportunities
-- 🌐 Collaborative analytics, ML, and open-source projects
 
 ## 🌐 Socials
 

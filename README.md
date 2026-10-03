@@ -51,26 +51,6 @@ Connecting data and intelligence with APIs, databases, and application interface
 
 ---
 
-### 🔄 My Workflow
-
-```text
-     DATA
-       │
-       ▼
-  PROCESSING
-       │
-       ▼
- INTELLIGENCE
-       │
-       ▼
-     API
-       │
-       ▼
- APPLICATION
-       │
-       ▼
-    INSIGHT
-```
 ## 🌐 Socials
 
 <p align="left">

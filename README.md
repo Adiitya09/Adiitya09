@@ -25,49 +25,50 @@
 ![Stars](https://img.shields.io/github/stars/Adiitya09?style=for-the-badge&color=4C1D95&label=STARS&logo=github)
 
 </div>
-
 ## 💫 About Me
 
-<table>
-<tr>
-<td width="65%" valign="top">
+I am a **Computer Science and Business Systems student at KIT's College of Engineering, Kolhapur** 🎓, focused on building practical solutions across **Data Analytics 📊, AI/ML 🤖, and Software Engineering ⚙️**.
 
-### 👋 Hi, I'm Aditya
+My work combines **analytical thinking 🧠 with engineering fundamentals** — transforming raw datasets 🔄, designing KPI-driven dashboards 📈, building recommendation systems 🎯, developing REST APIs 🔌, working with database-backed applications 🗄️, and creating machine-learning workflows 🤖.
 
-I'm a **Computer Science and Business Systems student at KIT's College of Engineering, Kolhapur** 🎓, focused on building practical solutions across **Data Analytics 📊, AI/ML 🤖, and Software Engineering ⚙️**.
+### 🔄 How I Build
 
-I enjoy turning **raw data into meaningful systems** — from data cleaning and KPI-driven dashboards to recommendation systems, REST APIs, database-backed applications, and machine-learning workflows.
+<div align="center">
 
-### 🧠 What I Work With
+**📊 Data**  
+↓  
+**⚙️ Processing**  
+↓  
+**🧠 Intelligence**  
+↓  
+**🔌 API**  
+↓  
+**💻 Application**  
+↓  
+**💡 Insight**
 
-**📊 Data & Analytics**  
-Python · SQL · Pandas · NumPy · Power BI
+</div>
 
-**🤖 AI & Machine Learning**  
-Scikit-learn · TensorFlow · Keras · PyTorch
+### 🧠 Current Technical Focus
 
-**⚙️ Engineering & Backend**  
-FastAPI · PostgreSQL · REST APIs · Git · GitHub
+`Python` · `SQL` · `Pandas` · `NumPy` · `Power BI` · `FastAPI` · `PostgreSQL` · `Scikit-learn` · `TensorFlow` · `Keras` · `PyTorch` · `Git` · `GitHub`
 
-</td>
+### 🚀 Open To
 
-<td width="35%" valign="top">
+| | Opportunities |
+|---|---|
+| 📊 | **Entry-level Data Analyst** roles |
+| 🤖 | **AI/ML & Recommendation Systems** projects |
+| ⚙️ | **Data Engineering** internships & learning opportunities |
+| 🌐 | Collaborative **Analytics, ML & Open-Source** projects |
 
-### 🎯 My Focus
+### 🎯 My Approach
 
-```text
-🔍 Understand
-      ↓
-🗂️ Structure
-      ↓
-⚙️ Build
-      ↓
-🧠 Add Intelligence
-      ↓
-✅ Validate
-      ↓
-📈 Deliver Insights
-```
+> **Understand → Structure → Build → Validate → Communicate**
+
+I approach projects with a **product-engineering mindset 🚀** — understanding the problem 🔍, structuring the data 🗂️, designing the system 🏗️, validating the implementation ✅, and communicating the result clearly 📌.
+
+---
 
 ## 🌐 Socials
 

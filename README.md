@@ -136,12 +136,14 @@ I work at the intersection of **Data Analytics 📊, AI/ML 🤖, and Software En
   width="47%"
 />
 
-<br><br>
+<br>
 
 <img
   src="https://streak-stats.demolab.com/?user=Adiitya09&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=8B86A8&currStreakNum=FFFFFF&sideNums=FFFFFF"
   width="75%"
 />
+
+</div>
 
 </div> 
 

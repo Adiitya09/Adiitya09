@@ -143,7 +143,7 @@ I work at the intersection of **Data Analytics 📊, AI/ML 🤖, and Software En
   width="75%"
 />
 
-</div>
+</div> 
 
 </div>
 

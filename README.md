@@ -125,10 +125,6 @@ I work at the intersection of **Data Analytics 📊, AI/ML 🤖, and Software En
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
 <div align="center">
 
 <img
@@ -141,11 +137,7 @@ I work at the intersection of **Data Analytics 📊, AI/ML 🤖, and Software En
 />
 
 </div>
-</div>
 
-</div> 
-
-</div>
 
 <p align="center">
   <img

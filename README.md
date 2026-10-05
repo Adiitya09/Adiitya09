@@ -127,16 +127,17 @@ I work at the intersection of **Data Analytics 📊, AI/ML 🤖, and Software En
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=Adiitya09&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&cache_seconds=1800"
-  width="47%"
+  width="48%"
 />
-
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiitya09&layout=compact&langs_count=7&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&cache_seconds=1800"
-  width="47%"
+  width="48%"
 />
 
 </div>

@@ -22,7 +22,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Adiitya09&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/Adiitya09?style=for-the-badge&color=7C3AED&label=FOLLOWERS&logo=github)
-[![Total Stars](https://img.shields.io/endpoint?url=https://githubrankings.io/api/badge/Adiitya09&style=for-the-badge&color=4C1D95&label=TOTAL%20STARS&logo=github)](https://githubrankings.io/u/Adiitya09?metric=stars)
+[![Total Stars](https://img.shields.io/endpoint?url=https://githubrankings.io/api/badge/Adiitya09&style=for-the-badge&color=4C1D95&label=TOTAL%20STARS&logo=github)]
+
 </div>
 ## 💫 About Me
 

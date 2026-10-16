@@ -20,7 +20,6 @@
 
 <br>
 
-<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=Adiitya09&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/Adiitya09?style=for-the-badge&color=7C3AED&label=FOLLOWERS&logo=github)
 ![GitHub Stars](https://img.shields.io/github/stars/Adiitya09/MedvisionAi?style=for-the-badge&color=4C1D95&label=MEDVISIONAI+STARS&logo=github)

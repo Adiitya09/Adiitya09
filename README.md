@@ -47,7 +47,7 @@ I work at the intersection of **Data Analytics 📊, AI/ML 🤖, and Software En
   <a href="https://github.com/Adiitya09">
     <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://aditya-portfolio-xi-six.vercel.app/">
+  <a href=(https://adiitya09.github.io/aditya-portfolio/)>
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>

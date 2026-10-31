@@ -130,21 +130,12 @@ I work at the intersection of **Data Analytics 📊, AI/ML 🤖, and Software En
   src="https://github-readme-stats.vercel.app/api?username=Adiitya09&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&cache_seconds=1800"
   width="48%"
 />
-
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiitya09&layout=compact&langs_count=7&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&cache_seconds=1800"
   width="48%"
 />
 
-<br/><br/>
-
-<img
-  src="https://streak-stats.demolab.com?user=Adiitya09&theme=transparent&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
-  width="80%"
-/>
-
 </div>
-
 
 
 
